@@ -1,10 +1,13 @@
 Exp 3 :  Working with NumPy Arrays, Pandas DataFrames & Basic Plots using Matplotlib
+
 AIM:
 To perform data analysis using NumPy arrays and Pandas DataFrames and visualize the data using basic plots in Matplotlib.
+
 EQUIPMENTS REQUIRED:
 Python 3.x
 Jupyter Notebook / Google Colab / VS Code
 Libraries: numpy, pandas, matplotlib
+
 ALGORITHM:
 Import required libraries: NumPy, Pandas, and Matplotlib
 Create and manipulate NumPy arrays
